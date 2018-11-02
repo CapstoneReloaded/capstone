@@ -1,5 +1,5 @@
 
-### Capstone Engine (Reloaded)
+## Capstone Engine (Reloaded)
 
 > :exclamation: This is an *independent community* development fork of the original [Capstone](https://github.com/aquynh/capstone) project that was made in order to secure the future existence of that great, but slowly dying project. Unfortunately the original project is badly suffering from an extreme lack of maintenace and very slow response to any community involvement, if at all. This is an attempt to remedy the situation, but **is not meant to replace that project**, and rather complement it in such a way that *issues*, project *milestones* and *pull requests* can be handled more rapidly to push the project forward. :exclamation: 
 
@@ -16,13 +16,13 @@
 
 
 
-#### Capstone Reloaded:
+#### *Reloaded*:
 
 | STATUS: | Version | Date | Maintained? |
 |:------- |:------- |:---- |:----------- |
 | Working | `3.0.5` | 2018-11-02 | YES |
 
-#### Original Capstone:
+#### *Original*:
 
 | STATUS: | Version | Date | Maintained? |
 |:------- |:------- |:---- |:----------- |
