@@ -1,17 +1,12 @@
 
-## Capstone Engine (Reloaded)
+### Capstone Engine (Reloaded)
 
-```diff
--▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
-```
 > :exclamation: This is an *independent community* development fork of the original [Capstone](https://github.com/aquynh/capstone) project that was made in order to secure the future existence of that great, but slowly dying project. Unfortunately the original project is badly suffering from an extreme lack of maintenace and very slow response to any community involvement, if at all. This is an attempt to remedy the situation, but **is not meant to replace that project**, and rather complement it in such a way that *issues*, project *milestones* and *pull requests* can be handled more rapidly to push the project forward. :exclamation: 
 
 <sub> For questions regarding the original project and its status, please contact the original *Capstone* owner and repository maintainer:\
 [Nguyen Anh Quynh](https://github.com/aquynh/) at aquynh@gmail.com.</sub>
 
-```diff
--▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
-```
+---
 
 [![Capstone](https://img.shields.io/badge/capstone-3.0.5-lightgray.svg)](https://github.com/aquynh/capstone)
 [![GitHub last commit](https://img.shields.io/github/last-commit/CapstoneReloaded/capstone.svg)](https://github.com/CapstoneReloaded/capstone)
